@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- HEADER / SERIAL BANNER -->
@@ -160,4 +159,4 @@ frequency: "Designed to be a little different."
 <code>FEARFULLY AND WONDERFULLY MADE.</code> &nbsp;•&nbsp; <code>FAVORED / 524</code> &nbsp;•&nbsp; <code>END OF TRANSMISSION ✳</code>
 
 </div>
-```
+
