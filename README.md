@@ -49,7 +49,7 @@ frequency: "Designed to be a little different."
 
 ---
 
-### 🛠️ The Toolkit // `(04)`
+### 🛠️ The Toolkit // ``
 
 <p><strong>Languages & Code</strong></p>
 <p>
@@ -73,7 +73,7 @@ frequency: "Designed to be a little different."
 
 ---
 
-### 📂 Featured Project Files // `(05)`
+### 📂 Featured Project Files // ``
 
 <table>
   <tr>
