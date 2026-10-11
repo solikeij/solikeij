@@ -37,14 +37,9 @@
 ### ✳ Behind the Alias // `(02)`
 
 ```yaml
-alias: keij
-name: King James E. De Matta
-role: 3rd Year BSIT Student (Information Technology)
-motto: "All things work together for Good, for those who Love God"
-identity:
-  side_a: [Front-End Development, Flutter UI, Web Design, Clean Code]
-  side_b: [Video Editing, Playing Chords & Guitar, Gaming]
-frequency: "Designed to be a little different."
+Alias: Keij
+Name: King James E. De Matta
+Role: 3rd Year BSIT Student (Information Technology) | Frontend Developer, Game Developer, Mobile Developer
 ```
 
 ---
